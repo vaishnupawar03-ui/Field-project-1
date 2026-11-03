@@ -1,0 +1,232 @@
+[
+  {
+    "location": "marunji pg",
+    "timestamp": "2026-07-24T20:50:01.862363",
+    "portal": {
+      "detected": false,
+      "type": "none",
+      "redirect_url": null
+    },
+    "login": {
+      "method": "none",
+      "otp_required": false,
+      "otp_arrived": null,
+      "otp_time_seconds": null,
+      "page_loaded": null,
+      "succeeded": null,
+      "attempts": 1,
+      "session_duration_min": null
+    },
+    "post_login": {
+      "Google": {
+        "loaded": true,
+        "time_ms": 333,
+        "status": 200
+      },
+      "YouTube": {
+        "loaded": true,
+        "time_ms": 1062,
+        "status": 200
+      },
+      "WhatsApp": {
+        "loaded": true,
+        "time_ms": 856,
+        "status": 200
+      },
+      "Wikipedia": {
+        "loaded": false,
+        "time_ms": 435,
+        "status": 403
+      }
+    },
+    "hassle_score": 1,
+    "hassle_reasons": [
+      "No login required"
+    ],
+    "hassle_description": "Seamless \u2014 Just works, no friction"
+  },
+  {
+    "location": "Computer lab 2 at college",
+    "timestamp": "2026-07-30T12:18:22.842851",
+    "portal": {
+      "detected": false,
+      "type": "none",
+      "redirect_url": null
+    },
+    "login": {
+      "method": "none",
+      "otp_required": false,
+      "otp_arrived": null,
+      "otp_time_seconds": null,
+      "page_loaded": null,
+      "succeeded": null,
+      "attempts": 1,
+      "session_duration_min": null
+    },
+    "post_login": {
+      "Google": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "YouTube": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "WhatsApp": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "Wikipedia": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      }
+    },
+    "hassle_score": 1,
+    "hassle_reasons": [
+      "No login required"
+    ],
+    "hassle_description": "Seamless \u2014 Just works, no friction"
+  },
+  {
+    "location": "Admission Telecaller",
+    "timestamp": "2026-07-30T12:51:56.885844",
+    "portal": {
+      "detected": false,
+      "type": "none",
+      "redirect_url": null
+    },
+    "login": {
+      "method": "none",
+      "otp_required": false,
+      "otp_arrived": null,
+      "otp_time_seconds": null,
+      "page_loaded": null,
+      "succeeded": null,
+      "attempts": 1,
+      "session_duration_min": null
+    },
+    "post_login": {
+      "Google": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "YouTube": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "WhatsApp": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "Wikipedia": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      }
+    },
+    "hassle_score": 1,
+    "hassle_reasons": [
+      "No login required"
+    ],
+    "hassle_description": "Seamless \u2014 Just works, no friction"
+  },
+  {
+    "location": "computer lab 2",
+    "timestamp": "2026-07-30T12:59:29.613823",
+    "portal": {
+      "detected": false,
+      "type": "none",
+      "redirect_url": null
+    },
+    "login": {
+      "method": "none",
+      "otp_required": false,
+      "otp_arrived": null,
+      "otp_time_seconds": null,
+      "page_loaded": null,
+      "succeeded": null,
+      "attempts": 1,
+      "session_duration_min": null
+    },
+    "post_login": {
+      "Google": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "YouTube": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "WhatsApp": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "Wikipedia": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      }
+    },
+    "hassle_score": 1,
+    "hassle_reasons": [
+      "No login required"
+    ],
+    "hassle_description": "Seamless \u2014 Just works, no friction"
+  },
+  {
+    "location": "niken's phone",
+    "timestamp": "2026-07-30T13:08:46.451539",
+    "portal": {
+      "detected": false,
+      "type": "none",
+      "redirect_url": null
+    },
+    "login": {
+      "method": "none",
+      "otp_required": false,
+      "otp_arrived": null,
+      "otp_time_seconds": null,
+      "page_loaded": null,
+      "succeeded": null,
+      "attempts": 1,
+      "session_duration_min": null
+    },
+    "post_login": {
+      "Google": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "YouTube": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "WhatsApp": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      },
+      "Wikipedia": {
+        "loaded": false,
+        "time_ms": null,
+        "error": "name 'headers' is not defined"
+      }
+    },
+    "hassle_score": 1,
+    "hassle_reasons": [
+      "No login required"
+    ],
+    "hassle_description": "Seamless \u2014 Just works, no friction"
+  }
+]
